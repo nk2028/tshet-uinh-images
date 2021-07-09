@@ -35,7 +35,7 @@
     <tr>
       <td>龍宇純校箋本（臨摹）</td>
       <td><code>/王三/龍宇純</code></td>
-      <td>原書</td>
+      <td><a href="https://books.google.com.hk/books?id=mIrpygAACAAJ">原書</a></td>
     </tr>
   </tbody>
 </table>
