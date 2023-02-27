@@ -1,4 +1,12 @@
-# 《切韻》書影
+# 《切韻》書影 Tshet-uinh Images
+
+用法：
+
+```
+https://cethiunn-1305783649.cos.accelerate.myqcloud.com/path/to/image.jpg
+```
+
+收錄版本：
 
 <table>
   <thead>
