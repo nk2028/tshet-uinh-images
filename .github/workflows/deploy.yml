@@ -20,4 +20,4 @@ jobs:
           REGION: ${{ secrets.Region }}
         run: coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
       - name: Upload
-        run: coscmd upload -rs --delete -f ./ / --ignore "./.git/*,./.github/*"
+        run: coscmd upload -rs --delete -f ./ / --ignore "./.git/*,./.github/*,./README.md"

@@ -1,6 +1,6 @@
 # Tshet-uinh Images
 
-切韻系韻書及韻圖書影（包含《切三》 、《王一》、《王三》及《韻鏡》）
+切韻系韻書及韻圖書影（包含《切三》 、《王一》、《王三》、《廣韻》及《韻鏡》）
 
 用法：
 
@@ -24,7 +24,7 @@ https://cethiunn-1305783649.cos.accelerate.myqcloud.com/path/to/image.jpg
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4">韻書</td>
+      <td rowspan="5">韻書</td>
       <td>切三</td>
       <td>S.2071</td>
       <td></td>
@@ -53,6 +53,14 @@ https://cethiunn-1305783649.cos.accelerate.myqcloud.com/path/to/image.jpg
       <td></td>
       <td><code>/王三/龍宇純</code></td>
       <td><a href="https://books.google.com.hk/books?id=mIrpygAACAAJ">原書</a></td>
+    </tr>
+    <tr>
+      <td>廣韻</td>
+      <td></td>
+      <td>澤存堂本</td>
+      <td></td>
+      <td><code>/廣韻/澤存堂本</code></td>
+      <td><a href="https://ytenx.org/static/img/DrakDzuonDang/">韻典網</a></td>
     </tr>
     <tr>
       <td rowspan="2">韻圖</td>
